@@ -9,7 +9,7 @@
     <string-array name="dock_apps">
         <item>com.netflix.ninja</item>
         <item>com.google.android.youtube.tv</item>
-        <item>in.startv.hotstar.dplus.tv</item>
+        <item>com.disney.disneyplus</item>
         <item>com.wbd.stream</item>
     </string-array>
 
